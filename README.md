@@ -6,7 +6,7 @@ Installed plugins
 
 **NERD Tree**
 
-The (NERD Tree)[https://github.com/scrooloose/nerdtree] allows you to explore your filesystem and to open files and directories. It presents the filesystem to you in the form of a tree which you manipulate with the keyboard and/or mouse. It also allows you to perform simple filesystem operations.
+The [NERD Tree](https://github.com/scrooloose/nerdtree) allows you to explore your filesystem and to open files and directories. It presents the filesystem to you in the form of a tree which you manipulate with the keyboard and/or mouse. It also allows you to perform simple filesystem operations.
 
     Ctrl+N - Toogle NERD Tree
 
