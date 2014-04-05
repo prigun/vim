@@ -12,6 +12,10 @@ Installed plugins
     :ConqueTerm mysql -h localhost -u joe_lunchbox Menu
     :ConqueTerm Powershell.exe
 
+**rails.vim**
+
+[rails.vim](https://github.com/tpope/vim-rails)
+
 Additional info
 ------------
 
