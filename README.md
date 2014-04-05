@@ -1,6 +1,15 @@
 Vim configuration
 ============
 
+Installed plugins
+------------
+
+Conque
+
+    :ConqueTerm bash
+    :ConqueTerm mysql -h localhost -u joe_lunchbox Menu
+    :ConqueTerm Powershell.exe
+
 Additional info
 ------------
 
