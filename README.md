@@ -4,6 +4,20 @@ Vim configuration
 Installed plugins
 ------------
 
+**NERD Tree**
+
+The (NERD Tree)[https://github.com/scrooloose/nerdtree] allows you to explore your filesystem and to open files and directories. It presents the filesystem to you in the form of a tree which you manipulate with the keyboard and/or mouse. It also allows you to perform simple filesystem operations.
+
+    Ctrl+N - Toogle NERD Tree
+
+**MRU**
+
+The Most Recently Used (MRU) plugin provides an easy access to a list of 
+recently opened/edited files in Vim. This plugin automatically stores the 
+file names as you open/edit them in Vim.
+
+    Ctrl+M - Open recently used files
+
 **Conque**
 
 [Conque](http://code.google.com/p/conque/) is a Vim plugin which allows you to run interactive programs, such as bash on linux or powershell.exe on Windows, inside a Vim buffer. In other words it is a terminal emulator which uses a Vim buffer to display the program output.
