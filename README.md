@@ -4,6 +4,10 @@ Vim configuration
 Installed plugins
 ------------
 
+**pathogen.vim**
+
+Manage your 'runtimepath' with [pathogen.vim](https://github.com/tpope/vim-pathogen). In practical terms, pathogen.vim makes it super easy to install plugins and runtime files in their own private directories.
+
 **NERD Tree**
 
 The [NERD Tree](https://github.com/scrooloose/nerdtree) allows you to explore your filesystem and to open files and directories. It presents the filesystem to you in the form of a tree which you manipulate with the keyboard and/or mouse. It also allows you to perform simple filesystem operations.
