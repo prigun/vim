@@ -34,6 +34,16 @@ file names as you open/edit them in Vim.
 
 [rails.vim](https://github.com/tpope/vim-rails)
 
+**matrix**
+
+Just [Matrix](https://github.com/uguu-org/vim-matrix-screensaver) screensaver.
+
+    :Matrix
+
+**Rainbow Parentheses**
+
+Rainbow colors for parentheses, based on [rainbow_parenthsis.vim](https://github.com/kien/rainbow_parentheses.vim) of which there are multiple versions by Martin Krischik, John Gilmore, Luc Hermitte, and Steve Losh.
+
 Additional info
 ------------
 
