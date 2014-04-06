@@ -37,6 +37,6 @@ file names as you open/edit them in Vim.
 Additional info
 ------------
 
-How to organise vim plugins. [link](http://linuxlefty.com/tools/favorite-vim-plugins-vi-gvim.html)
+How to organise vim [plugins](http://linuxlefty.com/tools/favorite-vim-plugins-vi-gvim.html).
 
-Vim Splits: A Guide to Doing Exactly What You Want. [link](http://technotales.wordpress.com/2010/04/29/vim-splits-a-guide-to-doing-exactly-what-you-want)
+[Vim Splits](http://technotales.wordpress.com/2010/04/29/vim-splits-a-guide-to-doing-exactly-what-you-want/): A Guide to Doing Exactly What You Want.
