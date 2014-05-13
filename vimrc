@@ -91,6 +91,9 @@ map <C-n> :NERDTreeToggle<CR>
 " MRU
 map <C-m> :MRU<CR>
 
+" ConqueTerm
+map <S-t> :ConqueTerm bash<CR>
+
 " Rainbow Parentheses
 au VimEnter * RainbowParenthesesToggle
 au Syntax * RainbowParenthesesLoadRound
