@@ -29,6 +29,7 @@ file names as you open/edit them in Vim.
     :ConqueTerm bash
     :ConqueTerm mysql -h localhost -u joe_lunchbox Menu
     :ConqueTerm Powershell.exe
+    Shift+T - Open bash
 
 **rails.vim**
 
